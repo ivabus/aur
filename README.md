@@ -8,5 +8,4 @@ To get more information about packages or anything else write to <ivabus@ivabus.
 
 ## License
 
-All files in this repo are distributed under [WTFPL](http://www.wtfpl.net/) license.
-
+All files in this repo are distributed under [Unlicense](https://unlicense.org) license.
